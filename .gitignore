@@ -1,6 +1,4 @@
 /.DS_Store
-/App.cpp
-/App.h
 /CMakeLists.txt
 /VoiceInstrument.cpp
 /VoiceInstrument.h
