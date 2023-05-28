@@ -13,5 +13,10 @@
 /resources_video
 /shaders
 /unused_instruments
-/yossCommon
 /yossCommonConfig.h
+/yossCommon/bridge
+/yossCommon/common
+/yossCommon/graphics
+/yossCommon/iap
+/yossCommon/iOS
+yossCommon/.DS_Store
