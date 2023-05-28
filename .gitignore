@@ -1,0 +1,17 @@
+/.DS_Store
+/App.cpp
+/App.h
+/CMakeLists.txt
+/VoiceInstrument.cpp
+/VoiceInstrument.h
+/android
+/bridge
+/iOS
+/resources_gfx
+/resources_other
+/resources_sounds
+/resources_video
+/shaders
+/unused_instruments
+/yossCommon
+/yossCommonConfig.h
